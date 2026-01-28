@@ -6,8 +6,8 @@ A responsive “Coming Soon” landing page built for **Chai Culture**, reflecti
 
 ## 🔗 Live Demo
 
-- 🚀 **Vercel:** https://rahul-65-patra-chai-culture.vercel.app/  
 - 📄 **GitHub Pages:** https://rahul-65-patra.github.io/Rahul-65-Patra-Chai-Culture/
+- 🚀 **Vercel:** https://chai-culture-nu.vercel.app/  
 
 
 ---
