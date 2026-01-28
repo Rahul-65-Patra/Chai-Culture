@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "chai-culture",
+  "public": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}

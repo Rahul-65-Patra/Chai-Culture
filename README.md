@@ -5,14 +5,17 @@ A responsive “Coming Soon” landing page built for **Chai Culture**, reflecti
 ---
 
 ## 🔗 Live Demo
-👉 https://your-live-link-here
+
+- 🚀 **Vercel:** https://rahul-65-patra-chai-culture.vercel.app/  
+- 📄 **GitHub Pages:** https://rahul-65-patra.github.io/Rahul-65-Patra-Chai-Culture/
+
 
 ---
 
 ## ✨ Highlights
 - 🎨 Brand-aligned royal color palette and elegant typography  
 - 🏷 Clear tagline and launch-focused messaging  
-- 📧 Email signup form with smooth interaction and validation  
+- 📧 Email signup form with smooth interaction 
 - 🌐 Social media links for brand presence  
 - 📱 Fully responsive across mobile and desktop devices  
 - 🧼 Clean, semantic, and accessible code structure  
@@ -20,7 +23,7 @@ A responsive “Coming Soon” landing page built for **Chai Culture**, reflecti
 ---
 
 ## 👀 Preview
-![📸 Landing Page Preview](./dashboard.png)
+![📸 Landing Page Preview](./preview.png)
 
 ---
 
